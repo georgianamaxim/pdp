@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  lab6.cpp
+c:\users\georgiana\desktop\pdp\lab6\lab6\lab6.cpp(222): warning C4018: '<': signed/unsigned mismatch
+  lab6.vcxproj -> C:\Users\Georgiana\Desktop\pdp\lab6\Debug\lab6.exe

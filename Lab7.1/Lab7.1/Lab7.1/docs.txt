@@ -1,0 +1,51 @@
+Algorithms:
+1. Regular polynomial multiplication O(n^2) alg:
+A and B are polynomials of degree n. 
+We multiply all coefficients of B with one coefficient of A at a time,
+and make the sum of the coefficients of the same degree.
+
+2. Karatsuba's alg O(n^log3):
+Karatsuba's algorithms uses the Divide and Conquer approach, 
+it is a fast multiplication algorithms. It uses 3 multiplications of smaller numbers,
+each with haslf as many digits as x or y, additions and coeff shifts.
+
+The performance : 
+1.
+	degree 5
+	Sequential O(n^2) time: 5.66 ms
+	Parallel O(n^2) time: 6.15 ms
+	Karatsuba's sequential time: 0.14 ms
+	Karatsuba's parallel time: 0.012 ms 
+
+	MPI Multiplication: 
+	TIME: 21 milliseconds
+	MPI  Karatsuba: 
+	TIME: 11 milliseconds
+
+2.
+	degree 8
+	Sequential O(n^2) time: 3 ms
+	Parallel O(n^2) time: 5 ms
+	Karatsuba's sequential time: 1 ms
+	Karatsuba's parallel time: 0 ms
+
+	MPI Multiplication: 
+	TIME: 22 milliseconds
+	MPI  Karatsuba: 
+	TIME: 11 milliseconds
+
+3. 
+	degree 15
+	Sequential O(n^2) time: 4 ms
+	Parallel O(n^2) time: 5 ms
+	Karatsuba's sequential time: 1 ms
+	Karatsuba's parallel time: 0 ms
+
+	MPI Multiplication: 
+	TIME: 22 milliseconds
+	MPI  Karatsuba: 
+	TIME: 14 milliseconds
+
+
+
+

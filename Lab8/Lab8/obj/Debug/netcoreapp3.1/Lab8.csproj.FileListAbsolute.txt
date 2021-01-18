@@ -1,0 +1,17 @@
+D:\PDP\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.exe
+D:\PDP\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.deps.json
+D:\PDP\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+D:\PDP\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+D:\PDP\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
+D:\PDP\Lab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
+D:\PDP\Lab8\Lab8\bin\Debug\netcoreapp3.1\MPI.dll
+D:\PDP\Lab8\Lab8\bin\Debug\netcoreapp3.1\MPIUtils.dll
+D:\PDP\Lab8\Lab8\bin\Debug\netcoreapp3.1\MPI.xml
+D:\PDP\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csprojAssemblyReference.cache
+D:\PDP\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+D:\PDP\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+D:\PDP\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+D:\PDP\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CopyComplete
+D:\PDP\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
+D:\PDP\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
+D:\PDP\Lab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache

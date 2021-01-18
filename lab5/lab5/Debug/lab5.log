@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  Polynomial.cpp
+  lab5.cpp
+c:\users\georgiana\desktop\pdp\lab5\lab5\lab5.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\georgiana\desktop\pdp\lab5\lab5\lab5.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  multiplications.cpp
+c:\users\georgiana\desktop\pdp\lab5\lab5\multiplications.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\georgiana\desktop\pdp\lab5\lab5\multiplications.cpp(10): warning C4018: '>=': signed/unsigned mismatch
+c:\users\georgiana\desktop\pdp\lab5\lab5\multiplications.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\georgiana\desktop\pdp\lab5\lab5\multiplications.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\georgiana\desktop\pdp\lab5\lab5\multiplications.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\georgiana\desktop\pdp\lab5\lab5\multiplications.cpp(275): warning C4018: '<': signed/unsigned mismatch
+c:\users\georgiana\desktop\pdp\lab5\lab5\multiplications.cpp(281): warning C4018: '<': signed/unsigned mismatch
+c:\users\georgiana\desktop\pdp\lab5\lab5\multiplications.cpp(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\georgiana\desktop\pdp\lab5\lab5\multiplications.cpp(303): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  lab5.vcxproj -> C:\Users\Georgiana\Desktop\pdp\lab5\Debug\lab5.exe

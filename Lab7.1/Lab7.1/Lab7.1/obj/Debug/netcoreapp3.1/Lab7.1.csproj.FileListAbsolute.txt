@@ -1,0 +1,17 @@
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\obj\Debug\netcoreapp3.1\Lab7.1.csprojAssemblyReference.cache
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\obj\Debug\netcoreapp3.1\Lab7.1.AssemblyInfoInputs.cache
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\obj\Debug\netcoreapp3.1\Lab7.1.AssemblyInfo.cs
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\obj\Debug\netcoreapp3.1\Lab7.1.csproj.CoreCompileInputs.cache
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\bin\Debug\netcoreapp3.1\Lab7.1.exe
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\bin\Debug\netcoreapp3.1\Lab7.1.deps.json
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\bin\Debug\netcoreapp3.1\Lab7.1.runtimeconfig.json
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\bin\Debug\netcoreapp3.1\Lab7.1.runtimeconfig.dev.json
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\bin\Debug\netcoreapp3.1\Lab7.1.dll
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\bin\Debug\netcoreapp3.1\Lab7.1.pdb
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\bin\Debug\netcoreapp3.1\MPI.dll
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\bin\Debug\netcoreapp3.1\MPIUtils.dll
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\bin\Debug\netcoreapp3.1\MPI.xml
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\obj\Debug\netcoreapp3.1\Lab7.1.csproj.CopyComplete
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\obj\Debug\netcoreapp3.1\Lab7.1.dll
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\obj\Debug\netcoreapp3.1\Lab7.1.pdb
+D:\PDP\Lab7.1\Lab7.1\Lab7.1\obj\Debug\netcoreapp3.1\Lab7.1.genruntimeconfig.cache

@@ -1,0 +1,61 @@
+Algorithms:
+1. Sequential O(n^2) alg:
+A and B are polynomials of degree n. 
+We multiply all coefficients of B with one coefficient of A at a time,
+and make the sum of the coefficients of the same degree.
+
+2. Parallel O(n^2) alg:
+The algorithm has the same idea as the sequential one, but instead of having
+the main thread multiplying every coefficient of B with every coefficient of A,
+the work is divided between t threads, every thread performs the multiplycation of 
+n/t coefficients and results in a faster than the sequantial approach parallelization.
+
+3. Sequential Karatsuba's alg:
+Karatsuba's algorithms uses the Divide and Conquer approach, 
+it is a fast multiplication algorithms. It uses 3 multiplications of smaller numbers,
+each with half as many digits as x or y, additions and coeff shifts.
+
+4. Parallel Karatsuba's alg:
+The 3 steps of Karatsuba's algorithm are split between a number of threads.
+
+Synchronization:
+Only plain threads are used.
+
+Performance:
+8 threads
+degree 32
+Sequential O(n^2) time: 0.0056614
+Parallel O(n^2) time: 0.0515713
+Karatsuba's sequential time: 0.0145901
+Karatsuba's parallel time: 0.0009615
+
+12 threads
+degree 32
+Sequential O(n^2) time: 0.0012459
+Parallel O(n^2) time: 0.0390286
+Karatsuba's sequential time: 0.0158185
+Karatsuba's parallel time: 0.0009054
+
+12 threads
+degree 1024
+Sequential O(n^2) time: 1.10092
+Parallel O(n^2) time: 0.391078
+Karatsuba's sequential time: 2.7669
+Karatsuba's parallel time: 0.614926
+
+12 threads 
+degree 128
+Sequential O(n^2) time: 0.0221118
+Parallel O(n^2) time: 0.0652561
+Karatsuba's sequential time: 0.13947
+Karatsuba's parallel time: 0.0155563
+
+20 threads 
+degree 128
+Sequential O(n^2) time: 0.0347461
+Parallel O(n^2) time: 0.0772707
+Karatsuba's sequential time: 0.16748
+Karatsuba's parallel time: 0.0143869
+
+
+
